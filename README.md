@@ -8,6 +8,8 @@ This project demonstrates how to configure a VPC endpoint in AWS, test its avail
 - An S3 bucket named `my-custom-s3-bucket`.
 - AWS CLI configured on your local machine.
 
+![image](https://github.com/user-attachments/assets/3971a988-449a-4cf2-93c1-41c34782af26)
+
 ## Steps
 
 ### Step 1: Create a VPC Endpoint
